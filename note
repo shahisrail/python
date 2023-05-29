@@ -1,0 +1,24 @@
+operators: Operator is as symbol that performs certain operations.
+Python provides the folwing set of operators
+
+1.Arithmatic Operators. (Done)
+2.Relational Operators or Comparison operator 
+3.Logical Operators 
+4.Bitwise Operators 
+5.Assignment Operators 
+6.Special Operators
+
+
+Arithmatic Operators : 
+1. + -> Addition 
+2. - -> Subtraction 
+3. * -> Multiplication 
+4. /  -> Division Opearator 
+5. % -> Modulo Operator 
+6. // -> Floor Division Operator (Python Specific)
+7. ** => Exponent Operator OR Power Operator.
+
+
+Oparand:
+
+a + b 
