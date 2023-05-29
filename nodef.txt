@@ -1,0 +1,167 @@
+
+Data Types Continuee :
+Python data structure:
+List 
+Touple 
+set 
+Frozenset
+Dict
+Range
+
+
+
+None
+
+Python all about object 
+
+
+List : If we want to represent a group of values as a single entity then should go List,tuple,set,dict data structure.
+
+Rules : 
+Insertion Order is preserved.
+Hetrogenoius Objects are allowed
+Duplicates are allowed 
+indexing folwwing python +ve index and -ve index 
+Growable in Nature
+List is Mutable ** important 
+syntax [].
+
+mylist = [10,203,'Mahbub',10.25]
+
+
+
+
+
+
+
+
+myarr  = [10,20,20.25,'Mahbub',20,20] // valid Python 
+
+int myarr = [10,20,30,40,60,60]
+myarr[6] = [100]
+myarr [10,20,30,40,60,60,100]
+myarr[0]
+myarr[0]
+
+int myarr = [10,20,10.5,'Mahbub'] // invalid
+
+
+c prograaming : 
+Javascript :
+
+name1 = 'Mahbub'
+name1 = 'Mahbub'
+
+string name = "Hello"
+const name = "Hello";
+ c array 
+
+ int myarr[] = {10,20,50,60};
+ myarr[0] = 10;
+ myarr[1] = 20
+
+ Javascript syntax : 
+
+ const name = ['Mahbub','Maisha','Hussain']
+ name[0] = 'Mahbub';
+ name[1] = 'Maisha'
+
+
+// Tuple Data Structure 
+tuple data types is exactly sam is list data types except
+that is immutable. We cannot change the Values.
+
+tuple elements can be represent within parenthesis (). 
+
+syntax : 
+Demo:
+myTuple = (10,20,3,'Mahbub',10.25)
+
+
+// Set Data Structure 
+If we want to represet a group of values without duplicates where order is not important
+then we should go for set data Type. set represet {}
+
+Rules: 
+Insertion order is not preserved.
+Duplicates are not allowed
+Hetrogenoius are allowed.
+Indexing are not allowed 
+it is mutable collection.
+Growbale in Nature.
+
+set is grwoable in nature, based on our requirement we increase and decrease.
+
+
+dict data Type:
+if we want to present a group of values as
+key-value pairs yhen we should go 
+for dict data Type.
+
+Rules :
+dict is mutable
+order is not preserved
+duplicate keys are not allowed
+duplicates value are allowed.
+{}
+
+
+Syntax: 
+
+MyDict = {'fname':'Mahbub','lname':'Hussain',101:100,101:100}
+
+
+js Object 
+=======
+
+const obj = {
+    id:10,
+    name:'Mahbub',
+    age:31
+}
+
+1-10
+1 2 3 4,5,6
+Mahbub m a h 
+list 
+tuple 
+dict 
+set 
+range
+
+
+// Range important 
+
+Range Data types represents a sequence a numbers:
+The elements present in range Data types are not modifitable.
+Range immutable data Type.
+
+form1:
+=======
+r = range(10) = 0 - 9
+for i in r:
+print(i)
+
+form2:
+=======
+r = range(10,20) 10-19
+generate numbers from 10 to 19
+for i in r:
+print(i)
+
+form3
+=====
+r = range(10,20,5)  // 10 , 12 ,14 ,16,18,
+2 means increment value 
+for i in r:
+print(i)
+
+
+
+for(int i = 0; i<=10;i++)
+
+
+
+None data type:
+None means nothing or no value associated.
+if the value is not avilable, then to handel such type of case None introduced.

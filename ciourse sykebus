@@ -1,0 +1,187 @@
+Core Python + Problem solving using (at least 300+) (Python , C Programming) 
+============================================================================
+
+Durations : 3 months
+Weekly : 2 class (Friday,Saturdy) 
+Time: Possible timing : Morning 10 or 11 
+per class durations: 2 hours (Minimum 1.30) 
+
+
+Core Python Topics / Sylabus 
+=============================
+1.Data Types 
+2.Operators 
+3.Input output 
+4.Control Flow  (problem solving) Pattern Programming
+5.Strings 
+6.Strings Problem Solving
+Python Specific Data Structures 
+===============================
+7.List 
+8.Tuples 
+9.Set 
+10.dict 
+11.Functions 
+12.Modules 
+13.Packages
+
+
+
+IDE -> Integrated Dedevelopment Enviornment (Visual studion, Pycharm)
+Python install : 3.11
+
+Git (Version Controlling ) 
+
+
+
+Data Types : 
+============
+Python is a high level programming language 
+Creator : Guido Van Rassam 1989 1991
+
+Web Developemt 
+Desktop App 
+Game Developemt
+=================
+DataScience 
+ML 
+AI
+Automation 
+Task : Study About Python Features & usecase 
+main.py
+============================================
+
+
+
+Data Types
+===========
+
+Identifier : A Named in Python Program is Called identifiers.
+It can be Class Name or Function Name or Module Name or Variable Name.
+a = 10;
+name = 'Mahbub'
+Rules : 
+1. The Only allowed characters in python. (a-z,A-Z)
+2.By Mistake if we using any other symbols like $ then we will get syntax error.
+
+cash = 10 => valid 
+cas$h = 10  => invalid 
+
+3. Identifiers should not starts with digits (1 2 3 15454 21)
+
+123total = 10  => invalid 
+total12  = 100  => valid 
+
+
+4. Identifiers are case sensitive. Python is a Case Sensitive Language 
+
+CaseSensative:  
+
+Name  => individual Variable
+name => individual Variable
+NAme => individual Variable
+NAME => individual Variable
+
+total = 100
+TOTAL = 100
+
+5. if identifiers is start with underscore( _ ) then it indicated it is Private 
+
+_abvgfhjdf_ = 10
+
+
+Test 1 : 
+========
+
+
+which of the folwwing are valid Python Identifiers?
+
+1.123total => invalid 
+2.total123  => valid 
+3.java2share => valid 
+4.ca$h  =>invalid 
+5._abc_abc_  =>valid 
+
+================
+6.if => invliad 
+7.def => invalid 
+
+
+
+Python Reserved Words:
+=====================
+In Python some words are reserved to represent some meaning or functionality.
+
+In python there are 33 reserved word (Key Words)
+
+True, False , None, and , or , not , is , if , else , elif, while, for, break, continuee, return, in , yield
+try,except, finally, raise, assert, import, from, as , class, def, pass, global , nonlocal, lambda, del, with.
+
+
+True => valid  
+true  => invalid 
+
+
+
+DataTpyes:
+============
+Data type represents the type of data present inside a variable. 
+In Python we are not required to specifiy the type explicitly. Based on value provided. the type will be asiigned automatically. 
+Python is a dynamically Types Language.
+
+strict type 
+============
+int a = 10;
+float b = 20;
+string name ='Mahbub'
+
+
+Dynamic Type 
+==========
+a = 10
+b = 20.200
+name = 'Mahbub'
+
+
+
+Python contains the folwwing DataTypes (14): 
+
+1.Int 
+2.Float 
+3.Complex 
+4.Bool 
+5.Str 
+6.Bytes
+7.Bytearray
+8.Range
+9.List
+10.Tuple 
+11.Set 
+12.Frozenset 
+13.Dict 
+14.None
+
+
+1. Int : We can use int data types to represent whole numbers(integral values)
+
+a = 10
+b = 10
+
+
+Float : We can use float data type represnt floating points value.(Decimal values)
+f = 1.234
+
+Complex : Syntax  
+a + bj
+
+a = real part 
+bj = imaginary part.
+
+
+
+Home Work 1
+==============
+Study about Features of python and usecase
+DataTypes 
+Indentifiers  
+
